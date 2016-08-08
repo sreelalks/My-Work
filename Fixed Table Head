@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title></title>
+      <style type="text/css">
+      .abs { position: absolute; top: 0; }
+      td { padding: 20px; }
+      .stati { height: 250px; overflow-x: hidden; background: #fff ;margin-top: 30px;}
+      .relative { overflow-y: scroll; position: relative; background:#ccc}
+      </style>
+   </head>
+    <body >
+      <div class="relative">
+         <div class="stati">
+            <table style="width: 1500px;">
+               <tbody>
+                  <tr>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>
+                     <td style="width: 10.0000%;"><div class="abs">Head title</div></td>                     
+                  </tr>
+               
+                  <tr> 
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                  </tr><tr> 
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                  </tr><tr> 
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                  </tr><tr> 
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                  </tr><tr> 
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                  </tr><tr> 
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                  </tr><tr> 
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                  </tr><tr> 
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                  </tr><tr> 
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                     <td style="width: 10.0000%;">0010</td>
+                  </tr>
+               </tbody>
+            </table>
+         </div>
+      </div>
+ 
+
+</body>
+</html>
