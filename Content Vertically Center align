@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title></title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" >
+      <style type="text/css">
+
+.grid-item {
+    border: 1px solid #dee3e9;
+    display: inline-block;
+    height: 173px;
+    text-align: center;
+    width: 100%;
+     
+}
+.grid-item p {
+    color: #7e8890;
+    font-size: 16px;
+    line-height: 28px;
+    margin-bottom: 50px;
+    position: relative;
+    top: 44%;
+    transform: translate(0px, -50%);
+}
+      
+      </style>
+   </head>
+   <body>
+      <div class="container-fluid">
+         <div class="row">
+            <div class="col-md-4">
+               <div class="grid-item">
+                  <p>
+                     Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                     tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                  </p>
+               </div>
+            </div>
+            <div class="col-md-4">
+               <div class="grid-item">
+                  <p>
+                     Lorem ipsum dolor sit amet, consectetur adipisicing el
+                  </p>
+               </div>
+            </div>
+            <div class="col-md-4">
+               <div class="grid-item">
+                  <p>
+                     Lorem ipsum dolor sit amet,
+                  </p>
+               </div>
+            </div>
+
+         </div>
+      </div>
+      
+   </body>
+</html>
